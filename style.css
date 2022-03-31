@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(17, 0, 255)
+}
+.games{
+    display: flex;
+    justify-content: space-between;
+}
+.item{
+    display: flex;
+    flex-direction: column ;
+    text-align: center;
+}
+.reachMeAt{
+    display: flex;
+    border:solid;
+    justify-content: flex-end;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: solid;
+}
+.subheading{
+    display: flex;
+    border: solid;
+    align-items: center;
+}
